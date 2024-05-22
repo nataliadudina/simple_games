@@ -1,0 +1,8 @@
+Nataly: 40
+Nat: 30
+Ann: 40
+Marie: 40
+Marie: 40
+John: 20
+Nat: 0
+Nat: 30
