@@ -14,24 +14,25 @@ Simple Games - это коллекция из семи простых, но ув
 
 # Установка и запуск проекта
 - Склонируйте репозиторий: 
-***
-git clone git@github.com:nataliadudina/simple_games.git
-***
+
+> **git clone git@github.com:nataliadudina/simple_games.git**
+
 - Перейдите в каталог проекта
-***
-cd simple_games
-***
+
+> **cd simple_games**
+
 - Убедитесь, что в вашей системе установлен Python 3.x. Затем установите Poetry:
-***
-pip install poetry
-***
+
+> **pip install poetry**
+
 - Установите зависимости:
-***
-poetry install
-***
+
+> **poetry install**
+
 - Чтобы начать работу с любой из игр, просто перейдите в соответствующую папку или сразу запустите файл в каталоге simple_games.
 Для запуска игры из папки выбирайте python-файл с названием игры или именем "main".
 - Для запуска игры из терминала используйте команду:
-***
-poetry run python <main>.py    # где <main> - имя основного файла
-***
+
+
+> **poetry run python <main>.py    # где <main> - имя основного файла**
+
