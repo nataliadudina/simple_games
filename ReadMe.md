@@ -35,5 +35,6 @@ Simple Games - это коллекция из семи простых, но ув
 
 
 > **poetry run python main.py**
+> 
 > **# где main.py - имя основного файла**
 
